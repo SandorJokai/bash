@@ -7,8 +7,8 @@
 #
 # This script can make a compressed backup about a specific directory. I combined with in-built cron, so
 # after the first manually running whilst it checks the exists of directories and the script is available in
-# /cron as well, it will be running in every day (in my case) and make an INCREMENTAL backing up. It also
-# creates a log file in /var/log directory.
+# /etc/cron.weekly directory as well, it will be running in every day (in my case) and make an INCREMENTAL 
+# backing up. It also creates a log file in /var/log directory.
 #
 # DATE: 27.05.2020
 #
