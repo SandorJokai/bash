@@ -35,7 +35,7 @@ function compressed_dir {
 }
 
 function check_cron {
-	if [ ! -s "/etc/cron.hourly/backup" ]
+	if [ ! -s "/etc/cron.weekly/backup" ]
 	then
 		sudo cp $script_loc /etc/cron.weekly/backup
 		echo "The backup script has been sent to /etc/cron.weekly!"
