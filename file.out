@@ -1,0 +1,112 @@
+1.2.3.4 | CHANGED | rc=0 >>
+hostname13-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_0440a9-lv_home  1.5T  1.4T   25G  99% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname250-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_0a9b1d-lv_home  739G  343G  358G  49% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname21-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_1cd964-lv_home  1.7T  1.5T  165G  90% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname02-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_817e58-lv_home  739G  501G  203G  72% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname06-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_2a11a2-lv_home  739G  448G  254G  64% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname251-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_d5a1b0-lv_home  1.3T   77M  1.2T   1% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname31-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_502ae0-lv_home  1.3T  1.1T  114G  91% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname33-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_ce2606-lv_home  1.3T  919G  250G  79% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname34-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_84ed02-lv_home  1.7T  1.4T  205G  88% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname32-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_b64dc7-lv_home  1.3T  960G  209G  83% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname35-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_3ef8bf-lv_home  1.5T  1.2T  271G  81% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname36-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_b51e92-lv_home  1.3T  857G  311G  74% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname38-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_b8b3f2-lv_home  1.5T  992G  410G  71% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname37-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_733170-lv_home  1.5T  1.1T  347G  76% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname39-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_55e928-lv_home  1.3T  906G  263G  78% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname41-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_162dcc-lv_home  2.0T  1.6T  256G  87% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname40-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_7b25f5-lv_home  1.7T  1.3T  326G  81% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname42-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_d3c25d-lv_home  1.5T  1.1T  284G  80% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname43-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_158a78-lv_home  1.7T  1.3T  403G  76% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname44-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_3031fb-lv_home  739G  460G  242G  66% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname45-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_8e0b20-lv_home  739G  564G  138G  81% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname46-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_baaf6a-lv_home  1.3T  689G  480G  59% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname47-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_d422fc-lv_home  985G  639G  296G  69% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname49-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_1b7e58-lv_home  1.5T  1.2T  221G  85% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname48-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_f7d323-lv_home  739G  579G  123G  83% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname50-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_4ab7f1-lv_home  985G  858G   77G  92% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname51-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_1e183b-lv_home  1.3T  1.1T   81G  94% /home
+1.2.3.4 | CHANGED | rc=0 >>
+hostname52-new
+Filesystem                     Size  Used Avail Use% Mounted on
+/dev/mapper/vg_2a795f-lv_home  985G  307G  629G  33% /home
