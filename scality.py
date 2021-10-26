@@ -1,3 +1,6 @@
+# This is a nice way of how we can fetch datas from a website's API. In order to script let work, we need to have a file called
+# .credentials storing the username/passwd in JSON format.
+
 #!/usr/bin/python3.8
 
 # requirements: pip install requests, hurry.filesize, etc.
