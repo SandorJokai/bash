@@ -9,7 +9,7 @@
 input="file.out"
 while IFS= read -r line
 do
-	sed -e '/^10/d' -e '/^File/d' | paste -d, - - | sort -n | uniq > file2.out
+	sed -e '/^1/d' -e '/^File/d' | paste -d, - - | sort -n | uniq > file2.out
 
 done < "$input"
 rm file.out
