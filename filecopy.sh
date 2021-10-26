@@ -1,3 +1,5 @@
+# This is a nice way of copying files between two machines over ssh
+
 #!/bin/bash
 
 source="$1"
