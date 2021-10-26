@@ -1,3 +1,5 @@
+# This is an easy way of testing cache ttl in haproxy.conf which was set up 56s when this script created
+
 #!/bin/bash
 
 countdown=20
