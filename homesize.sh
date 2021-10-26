@@ -1,6 +1,10 @@
+# This script can fetch information from multiple servers via ansible. The company where I work use puppet, so the "pdb" command is
+# run puppet database where all the datas come from. In order to use the script from everywhere, I created the file called file.out,
+# running absolutely the same command like in line 7.
+
 #!/bin/bash
 
-pdb.rb linweb{{01..52},{250,251}}-new -c "hostname;df -h /home" > file.out 2>/dev/null
+#pdb.rb linweb{{01..52},{250,251}}-new -c "hostname;df -h /home" > file.out 2>/dev/null
 
 input="file.out"
 while IFS= read -r line
